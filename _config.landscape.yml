@@ -19,7 +19,7 @@ widgets:
 - category
 - subscribe
 - recent_posts
-- tag
+- tagcloud
 - archive
 
 
