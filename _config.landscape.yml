@@ -7,7 +7,7 @@ subtitle: He goes before me, I am merely in His Shadow
 # Content
 excerpt_link: Read More
 fancybox: true
-recent_posts_limits: 5
+recent_posts_limits: 10
 # Footer
 copyright: |-
   No parts of the posts here may be reproduced without express permission, which can be obtained at <a href="mailto:blogs@theshadow.xyz">this email</a>
@@ -20,4 +20,4 @@ widgets:
 - recent_posts
 
 # Miscellaneous
-favicon: /favicon.png
+favicon: /favicon.jpg
