@@ -1,5 +1,5 @@
 ---
-title: internationalworship
+title: International Worship
 tags:
   - worship
   - international
