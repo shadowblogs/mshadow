@@ -13,10 +13,8 @@ timezone: 'America/Chicago'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-# url: https://blog.theshadow.xyz
-# root: /
-url: https://shadowblogs.github.io/blog
-root: /blog/
+url: https://blog.theshadow.xyz
+root: /
 permalink: :category/:title/
 permalink_defaults:
 pretty_urls:
