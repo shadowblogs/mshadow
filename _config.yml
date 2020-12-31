@@ -4,7 +4,7 @@
 
 # Site
 title: Being In His Shadow
-subtitle: ''
+subtitle: He goes before me, I am merely in His Shadow
 description: ''
 keywords:
 author: Shadow
@@ -13,7 +13,7 @@ timezone: 'America/Chicago'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://blog.theshadow.com
+url: https://blog.theshadow.xyz
 root: /
 permalink: :category/:title/
 permalink_defaults:
@@ -32,7 +32,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year:month:day-:title.md # File name of new posts
 default_layout: post
 titlecase: true # Transform title into titlecase
 external_link:
@@ -70,7 +70,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: misc
 category_map:
 tag_map:
 
