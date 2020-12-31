@@ -17,7 +17,11 @@ copyright: |-
 sidebar: right
 widgets:
 - category
+- subscribe
 - recent_posts
+- tags
+- archive
+
 
 # Miscellaneous
 favicon: /favicon.jpg
