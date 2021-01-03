@@ -11,7 +11,7 @@ recent_posts_limits: 10
 # Footer
 copyright: |-
   No parts of the posts here may be reproduced without express permission, which can be obtained at <a href="mailto:blogs@theshadow.xyz">this email</a>
-  <br> All content on this site except <a href="/css/images/pencilbg.webp">the banner image</a> are
+  <br> All content on this site except <a href="/css/images/pencilbg.jpg">the banner image</a> are
 
 # Sidebar
 sidebar: right
@@ -26,4 +26,3 @@ widgets:
 # Miscellaneous
 favicon: /favicon.jpg
 
-onesignal: 9896e033-dc81-4f3d-af8b-0b87e7a94a39
