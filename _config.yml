@@ -102,3 +102,6 @@ theme: "landscape"
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+onesignal: 9896e033-dc81-4f3d-af8b-0b87e7a94a39
