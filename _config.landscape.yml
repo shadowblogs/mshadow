@@ -2,7 +2,6 @@
 menu:
   Home: /
 banner: images/pencilbg.jpg
-subtitle: He goes before me, I am merely in His Shadow
 
 # Content
 excerpt_link: Read More
@@ -17,7 +16,6 @@ copyright: |-
 sidebar: right
 widgets:
 - category
-- subscribe
 - recent_posts
 - tagcloud
 - archive
@@ -25,4 +23,5 @@ widgets:
 
 # Miscellaneous
 favicon: /favicon.jpg
+
 
